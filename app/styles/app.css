@@ -29,4 +29,13 @@ body {
   background: #f3f3f3;
 }
 
-/* ...snip... */
+.tomster {
+  background: url(../assets/images/teaching-tomster.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+
+  position: relative;
+  top: -25px;
+}
